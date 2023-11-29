@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Blueprints/BP_Item.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/ItemType.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Blueprints/BP_Medkit.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Core/GS_PickupSystem.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Core/PS_PickupSystem.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/ItemData.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/E_ItemType.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/S_ItemData.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Data/DT_ItemsData.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Data/DT_MedkitData.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Data/DT_AmmoData.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Core/HUD_PickupSystem.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/CT/TZWTZ1OT1JLKWCJL8C4Y9V.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/S_ItemKey.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/PickupSystem/Content/PickupSystem/Model/NewDataTable.uasset"
+			]
+		}
+	]
+}
